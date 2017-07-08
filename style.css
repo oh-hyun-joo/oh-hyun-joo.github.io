@@ -1,4 +1,11 @@
 h1 {  font-size: 24px;
       font-family: Palatino, 'Palatino Linotype', serif; 
-      color: rgb(112,128,144) }
-p {   border: 2px solid #FFF;
+      }
+h3 {  font-size: 18px;
+      font-family: Palatino, 'Palatino Linotype', serif;
+      }
+h5 [  font-size: 12px;
+      font-family: Palatino, 'Palatino Linotype', serif;
+      }
+
+
